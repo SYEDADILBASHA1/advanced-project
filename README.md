@@ -2,8 +2,9 @@
 # -Dribbble-web-
 Aim:To create a simplified clone of Dribble Landing Page
 # Program:
+
+# Html:
 ```
-## Html:
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -49,8 +50,9 @@ Aim:To create a simplified clone of Dribble Landing Page
     <script src="script.js"></script>
 </body>
 </html>
-
+```
 # css:
+```
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -217,8 +219,9 @@ footer p {
         transform: translateX(-50%);
     }
 }
-
-# javascript1:
+```
+# javascript:
+```
 document.addEventListener('DOMContentLoaded', function () {
     const header = document.querySelector('header');
     const hero = document.querySelector('.hero');
