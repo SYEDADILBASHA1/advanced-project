@@ -3,7 +3,7 @@
 Aim:To create a simplified clone of Dribble Landing Page
 # Program:
 ```
-# Html:
+## Html:
 <!DOCTYPE html>
 <html lang="en">
 <head>
